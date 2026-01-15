@@ -87,7 +87,7 @@
             this.labelItemName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.labelItemName.Location = new System.Drawing.Point(317, 83);
             this.labelItemName.Name = "labelItemName";
-            this.labelItemName.Size = new System.Drawing.Size(105, 20);
+            this.labelItemName.Size = new System.Drawing.Size(89, 17);
             this.labelItemName.TabIndex = 1;
             this.labelItemName.Text = "Item Name:";
             // 
@@ -97,7 +97,7 @@
             this.labelQuantity.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.labelQuantity.Location = new System.Drawing.Point(317, 124);
             this.labelQuantity.Name = "labelQuantity";
-            this.labelQuantity.Size = new System.Drawing.Size(85, 20);
+            this.labelQuantity.Size = new System.Drawing.Size(74, 17);
             this.labelQuantity.TabIndex = 3;
             this.labelQuantity.Text = "Quantity:";
             // 
@@ -107,7 +107,7 @@
             this.labelPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.labelPrice.Location = new System.Drawing.Point(317, 164);
             this.labelPrice.Name = "labelPrice";
-            this.labelPrice.Size = new System.Drawing.Size(59, 20);
+            this.labelPrice.Size = new System.Drawing.Size(50, 17);
             this.labelPrice.TabIndex = 5;
             this.labelPrice.Text = "Price:";
             // 
@@ -116,7 +116,7 @@
             this.textBoxItemName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.textBoxItemName.Location = new System.Drawing.Point(428, 83);
             this.textBoxItemName.Name = "textBoxItemName";
-            this.textBoxItemName.Size = new System.Drawing.Size(199, 27);
+            this.textBoxItemName.Size = new System.Drawing.Size(199, 23);
             this.textBoxItemName.TabIndex = 2;
             // 
             // numericUpDownQuantity
@@ -124,7 +124,7 @@
             this.numericUpDownQuantity.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.numericUpDownQuantity.Location = new System.Drawing.Point(428, 124);
             this.numericUpDownQuantity.Name = "numericUpDownQuantity";
-            this.numericUpDownQuantity.Size = new System.Drawing.Size(199, 27);
+            this.numericUpDownQuantity.Size = new System.Drawing.Size(199, 23);
             this.numericUpDownQuantity.TabIndex = 4;
             // 
             // textBoxPrice
@@ -132,7 +132,7 @@
             this.textBoxPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.textBoxPrice.Location = new System.Drawing.Point(428, 164);
             this.textBoxPrice.Name = "textBoxPrice";
-            this.textBoxPrice.Size = new System.Drawing.Size(199, 27);
+            this.textBoxPrice.Size = new System.Drawing.Size(199, 23);
             this.textBoxPrice.TabIndex = 6;
             this.textBoxPrice.Text = "₱";
             // 
@@ -240,7 +240,6 @@
             this.buttonSave.TabIndex = 16;
             this.buttonSave.Text = "💾 Save";
             this.buttonSave.UseVisualStyleBackColor = false;
-
             // 
             // buttonClear
             // 
@@ -284,7 +283,7 @@
             this.lblStock.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.lblStock.Location = new System.Drawing.Point(317, 203);
             this.lblStock.Name = "lblStock";
-            this.lblStock.Size = new System.Drawing.Size(62, 20);
+            this.lblStock.Size = new System.Drawing.Size(53, 17);
             this.lblStock.TabIndex = 7;
             this.lblStock.Text = "Stock:";
             // 
@@ -293,14 +292,14 @@
             this.textBoxStock.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.textBoxStock.Location = new System.Drawing.Point(428, 203);
             this.textBoxStock.Name = "textBoxStock";
-            this.textBoxStock.Size = new System.Drawing.Size(199, 27);
+            this.textBoxStock.Size = new System.Drawing.Size(199, 23);
             this.textBoxStock.TabIndex = 8;
             // 
             // textBoxSearch
             // 
             this.textBoxSearch.Location = new System.Drawing.Point(339, 393);
             this.textBoxSearch.Name = "textBoxSearch";
-            this.textBoxSearch.Size = new System.Drawing.Size(227, 22);
+            this.textBoxSearch.Size = new System.Drawing.Size(227, 20);
             this.textBoxSearch.TabIndex = 17;
             // 
             // lblSearch
@@ -318,7 +317,7 @@
             this.labelSupplier.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.labelSupplier.Location = new System.Drawing.Point(317, 243);
             this.labelSupplier.Name = "labelSupplier";
-            this.labelSupplier.Size = new System.Drawing.Size(84, 20);
+            this.labelSupplier.Size = new System.Drawing.Size(73, 17);
             this.labelSupplier.TabIndex = 9;
             this.labelSupplier.Text = "Supplier:";
             // 
@@ -327,7 +326,7 @@
             this.textBoxSupplier.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.textBoxSupplier.Location = new System.Drawing.Point(428, 240);
             this.textBoxSupplier.Name = "textBoxSupplier";
-            this.textBoxSupplier.Size = new System.Drawing.Size(199, 27);
+            this.textBoxSupplier.Size = new System.Drawing.Size(199, 23);
             this.textBoxSupplier.TabIndex = 10;
             // 
             // labelCostPrice
@@ -336,7 +335,7 @@
             this.labelCostPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.labelCostPrice.Location = new System.Drawing.Point(317, 283);
             this.labelCostPrice.Name = "labelCostPrice";
-            this.labelCostPrice.Size = new System.Drawing.Size(104, 20);
+            this.labelCostPrice.Size = new System.Drawing.Size(87, 17);
             this.labelCostPrice.TabIndex = 11;
             this.labelCostPrice.Text = "Cost Price:";
             // 
@@ -345,7 +344,7 @@
             this.textBoxCostPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.textBoxCostPrice.Location = new System.Drawing.Point(428, 280);
             this.textBoxCostPrice.Name = "textBoxCostPrice";
-            this.textBoxCostPrice.Size = new System.Drawing.Size(199, 27);
+            this.textBoxCostPrice.Size = new System.Drawing.Size(199, 23);
             this.textBoxCostPrice.TabIndex = 12;
             this.textBoxCostPrice.Text = "₱";
             // 
@@ -355,7 +354,7 @@
             this.labelSellingPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.labelSellingPrice.Location = new System.Drawing.Point(300, 323);
             this.labelSellingPrice.Name = "labelSellingPrice";
-            this.labelSellingPrice.Size = new System.Drawing.Size(122, 20);
+            this.labelSellingPrice.Size = new System.Drawing.Size(104, 17);
             this.labelSellingPrice.TabIndex = 13;
             this.labelSellingPrice.Text = "Selling Price:";
             // 
@@ -364,7 +363,7 @@
             this.textBoxSellingPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold);
             this.textBoxSellingPrice.Location = new System.Drawing.Point(428, 320);
             this.textBoxSellingPrice.Name = "textBoxSellingPrice";
-            this.textBoxSellingPrice.Size = new System.Drawing.Size(199, 27);
+            this.textBoxSellingPrice.Size = new System.Drawing.Size(199, 23);
             this.textBoxSellingPrice.TabIndex = 14;
             this.textBoxSellingPrice.Text = "₱";
             // 
@@ -407,7 +406,7 @@
             this.buttonCler.TabIndex = 23;
             this.buttonCler.Text = "🧹 Clear";
             this.buttonCler.UseVisualStyleBackColor = false;
-
+            this.buttonCler.Click += new System.EventHandler(this.buttonCler_Click);
             // 
             // lblDateTime
             // 
@@ -417,16 +416,14 @@
             this.lblDateTime.ForeColor = System.Drawing.Color.Transparent;
             this.lblDateTime.Location = new System.Drawing.Point(752, 9);
             this.lblDateTime.Name = "lblDateTime";
-            this.lblDateTime.Size = new System.Drawing.Size(52, 20);
+            this.lblDateTime.Size = new System.Drawing.Size(44, 17);
             this.lblDateTime.TabIndex = 24;
             this.lblDateTime.Text = "TIME";
-
             // 
             // timer1
             // 
             this.timer1.Enabled = true;
             this.timer1.Interval = 1000;
-
             // 
             // buttonExit
             // 
@@ -436,7 +433,6 @@
             this.buttonExit.TabIndex = 25;
             this.buttonExit.Text = "EXIT";
             this.buttonExit.UseVisualStyleBackColor = true;
-
             // 
             // button3
             // 
@@ -467,7 +463,6 @@
             this.btnDashboard.TabIndex = 0;
             this.btnDashboard.Text = "Dashboard";
             this.btnDashboard.UseVisualStyleBackColor = true;
-
             // 
             // panelContent
             // 

@@ -22,6 +22,19 @@ namespace InventorySystemManaement
 
         }
 
+        private void buttonCler_Click(object sender, EventArgs e)
+        {
+            textBoxItemName.Text = "";
+            textBoxPrice.Text = "";
+            textBoxStock.Text = "";
+            textBoxSupplier.Text = "";
+            textBoxCostPrice.Text = "";
+            textBoxSellingPrice.Text = "";
+
+            
+            numericUpDownQuantity.Value = 0;
+            textBoxItemName.Focus();
+        }
 
 
 
