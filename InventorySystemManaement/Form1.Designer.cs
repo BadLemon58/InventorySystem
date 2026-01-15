@@ -240,10 +240,7 @@
             this.buttonSave.TabIndex = 16;
             this.buttonSave.Text = "💾 Save";
             this.buttonSave.UseVisualStyleBackColor = false;
-<<<<<<< HEAD
-=======
-           // this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
->>>>>>> fc3b30580a328fdfd8a898e90f02f0e0fdc9c347
+
             // 
             // buttonClear
             // 
@@ -410,10 +407,7 @@
             this.buttonCler.TabIndex = 23;
             this.buttonCler.Text = "🧹 Clear";
             this.buttonCler.UseVisualStyleBackColor = false;
-<<<<<<< HEAD
-=======
-           // this.buttonCler.Click += new System.EventHandler(this.buttonCler_Click);
->>>>>>> fc3b30580a328fdfd8a898e90f02f0e0fdc9c347
+
             // 
             // lblDateTime
             // 
@@ -426,19 +420,13 @@
             this.lblDateTime.Size = new System.Drawing.Size(52, 20);
             this.lblDateTime.TabIndex = 24;
             this.lblDateTime.Text = "TIME";
-<<<<<<< HEAD
-=======
-           // this.lblDateTime.Click += new System.EventHandler(this.label1_Click);
->>>>>>> fc3b30580a328fdfd8a898e90f02f0e0fdc9c347
+
             // 
             // timer1
             // 
             this.timer1.Enabled = true;
             this.timer1.Interval = 1000;
-<<<<<<< HEAD
-=======
-            //this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
->>>>>>> fc3b30580a328fdfd8a898e90f02f0e0fdc9c347
+
             // 
             // buttonExit
             // 
@@ -448,10 +436,7 @@
             this.buttonExit.TabIndex = 25;
             this.buttonExit.Text = "EXIT";
             this.buttonExit.UseVisualStyleBackColor = true;
-<<<<<<< HEAD
-=======
-           // this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
->>>>>>> fc3b30580a328fdfd8a898e90f02f0e0fdc9c347
+
             // 
             // button3
             // 
@@ -482,10 +467,7 @@
             this.btnDashboard.TabIndex = 0;
             this.btnDashboard.Text = "Dashboard";
             this.btnDashboard.UseVisualStyleBackColor = true;
-<<<<<<< HEAD
-=======
-           // this.btnDashboard.Click += new System.EventHandler(this.btnDashboard_Click);
->>>>>>> fc3b30580a328fdfd8a898e90f02f0e0fdc9c347
+
             // 
             // panelContent
             // 
